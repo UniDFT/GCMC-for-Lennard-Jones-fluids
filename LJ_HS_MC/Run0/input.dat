@@ -1,0 +1,12 @@
+	ibeg, Equil, Prod, Nsamp, Iseed
+       	 0    200000 800000 5 368675
+        Dr	 Rcav
+       	0.2	  1.0
+        Ndispl	 Nexch
+       	 50	   50
+	NPART, TEMP, rho, pid
+	 2000   1.0   0.68854  0.1
+        TAILCO, SHIFT
+       	.false.  .false.
+        eps, sig, MASS, RC
+	 1.   1.   1.   6

@@ -1,0 +1,378 @@
+
+PBS Leader node is jaccn017
+
+Job setup time: Thu Feb 12 12:57:52 PST 2009
+
+Setting up security
+
+Job startup at  Thu Feb 12 12:57:58 PST 2009
+
+----------------------------------------------------------------
+
+Warning: no access to tty (Bad file descriptor).
+Thus no job control in this shell.
+mpirun WARNING: PBS temporary directory /tmp/pbs.592810.jacin03-m.nersc.gov does not exist.
+mpirun WARNING: Creating mpirun check file in /tmp. 
+mpirun WARNING: Number of processes requested (4) is less than or equal to
+mpirun WARNING: number of nodes (4) but 2 processors per node requested
+mpirun WARNING: Consider using -ppn 1
+ **************** MC_GRAND ***************
+ 
+ Initialisation on lattice: 
+      1992 particles placed on a lattice
+  Number of equilibration cycles             :    200000
+  Number of production cycles                :    800000
+  Sample frequency                           :         5
+
+  Number of att. to displ. a part. per cycle :        50
+  Maximum displacement                       :     0.200
+  Number of att. to exchange part. per cycle :        50
+
+
+  Number of particles                        :      1992
+  Temperature                                :     1.000
+  Ideal gas pressure reservoir               :     0.100
+  Density                                    :     0.686
+  Box length                                 :    14.275
+
+  Model parameters: 
+     epsilon: 1.000
+     sigma  : 1.000
+     mass   : 1.000
+  ******** test random numbers ***********
+  i,ranf()  1 0.51361035232640451
+  i,ranf()  2 0.62976804011089849
+  i,ranf()  3 0.76117176892381855
+  i,ranf()  4 0.59258554603460556
+  i,ranf()  5 0.22 **************** MC_GRAND ***************
+ 
+ Initialisation on lattice: 
+      1696 particles placed on a lattice
+  Number of equilibration cycles             :    200000
+  Number of production cycles                :    800000
+  Sample frequency                           :         5
+
+  Number of att. to displ. a part. per cycle :        50
+  Maximum displacement                       :     0.200
+  Number of att. to exchange part. per cycle :        50
+
+
+  Number of particles                        :      1696
+  Temperature                                :     1.000
+  Ideal gas pressure reservoir               :     0.100
+  Density                                    :     0.584
+  Box length                                 :    15.079
+
+  Model parameters: 
+     epsilon: 1.000
+     sigma  : 1.000
+     mass   : 1.000
+  ******** test random numbers ***********
+  i,ranf()  1 0.51361035232640451
+  i,ranf()  2 0.62976804011089849
+  i,ranf()  3 0.76117176892381855
+  i,ranf()  4 0.59258554603460556
+  i,ranf()  5 0.22 **************** MC_GRAND ***************
+ 
+ Initialisation on lattice: 
+      1912 particles placed on a lattice
+  Number of equilibration cycles             :    200000
+  Number of production cycles                :    800000
+  Sample frequency                           :         5
+
+  Number of att. to displ. a part. per cycle :        50
+  Maximum displacement                       :     0.200
+  Number of att. to exchange part. per cycle :        50
+
+
+  Number of particles                        :      1912
+  Temperature                                :     1.000
+  Ideal gas pressure reservoir               :     0.100
+  Density                                    :     0.658
+  Box length                                 :    14.451
+
+  Model parameters: 
+     epsilon: 1.000
+     sigma  : 1.000
+     mass   : 1.000
+  ******** test random numbers ***********
+  i,ranf()  1 0.51361035232640451
+  i,ranf()  2 0.62976804011089849
+  i,ranf()  3 0.76117176892381855
+  i,ranf()  4 0.59258554603460556
+  i,ranf()  5 0.22 **************** MC_GRAND ***************
+ 
+ Initialisation on lattice: 
+      2000 particles placed on a lattice
+  Number of equilibration cycles             :    200000
+  Number of production cycles                :    800000
+  Sample frequency                           :         5
+
+  Number of att. to displ. a part. per cycle :        50
+  Maximum displacement                       :     0.200
+  Number of att. to exchange part. per cycle :        50
+
+
+  Number of particles                        :      2000
+  Temperature                                :     1.000
+  Ideal gas pressure reservoir               :     0.100
+  Density                                    :     0.689
+  Box length                                 :    14.269
+
+  Model parameters: 
+     epsilon: 1.000
+     sigma  : 1.000
+     mass   : 1.000
+  ******** test random numbers ***********
+  i,ranf()  1 0.51361035232640451
+  i,ranf()  2 0.62976804011089849
+  i,ranf()  3 0.76117176892381855
+  i,ranf()  4 0.59258554603460556
+  i,ranf()  5 0.22816519023206228
+ Total energy initial configuration: -10533.84693
+ Total virial initial configuration: -16053.73681
+  Start equilibration 
+ ======>> Done  40000  out of  200000 2355 -13080.741475904972
+ Max. displ. set to :  0.202 (old :  0.200)
+ Frac. acc.: 0.51 attempts: 1999593 succes: 1010983
+ ======>> Done  80000  out of  200000 2331 -12842.332661201084
+ Max. displ. set to :  0.197 (old :  0.202)
+ Frac. acc.: 0.49 attempts: 1999097 succes:  972570
+ ======>> Done  120000  out of  200000 2338 -12963.445194585931
+ Max. displ. set to :  0.196 (old :  0.197)
+ Frac. acc.: 0.50 attempts: 1999751 succes:  997431
+ ======>> Done  160000  out of  200000 2338 -12878.405838715771
+ Max. displ. set to :  0.196 (old :  0.196)
+ Frac. acc.: 0.50 attempts: 2001993 succes: 1000131
+ ======>> Done  200000  out of  200000 2368 -13294.102004184391
+ Max. displ. set to :  0.196 (old :  0.196)
+ Frac. acc.: 0.50 attempts: 1998829 succes:  997533
+ Number of att. to displ. a part.  :    9999263
+ success:    4978648(= 49.79%)
+ Number 816519023206228
+ Total energy initial configuration: -10454.01309
+ Total virial initial configuration: -16104.18282
+  Start equilibration 
+ ======>> Done  40000  out of  200000 2347 -13018.006845224238
+ Max. displ. set to :  0.203 (old :  0.200)
+ Frac. acc.: 0.51 attempts: 1999495 succes: 1015803
+ ======>> Done  80000  out of  200000 2368 -13179.190965118709
+ Max. displ. set to :  0.196 (old :  0.203)
+ Frac. acc.: 0.48 attempts: 1999477 succes:  963448
+ ======>> Done  120000  out of  200000 2344 -12999.722184971926
+ Max. displ. set to :  0.197 (old :  0.196)
+ Frac. acc.: 0.50 attempts: 2000289 succes: 1006877
+ ======>> Done  160000  out of  200000 2337 -12855.257323838761
+ Max. displ. set to :  0.196 (old :  0.197)
+ Frac. acc.: 0.50 attempts: 2000335 succes:  994937
+ ======>> Done  200000  out of  200000 2352 -13001.214381954936
+ Max. displ. set to :  0.197 (old :  0.196)
+ Frac. acc.: 0.50 attempts: 2000084 succes: 1002462
+ Number of att. to displ. a part.  :    9999680
+ success:    4983527(= 49.84%)
+ Number 816519023206228
+ Total energy initial configuration:  -9652.38599
+ Total virial initial configuration: -19765.00464
+  Start equilibration 
+ ======>> Done  40000  out of  200000 2343 -12786.488237455875
+ Max. displ. set to :  0.205 (old :  0.200)
+ Frac. acc.: 0.51 attempts: 1998974 succes: 1025836
+ ======>> Done  80000  out of  200000 2362 -12969.43239137019
+ Max. displ. set to :  0.199 (old :  0.205)
+ Frac. acc.: 0.48 attempts: 1999524 succes:  968997
+ ======>> Done  120000  out of  200000 2362 -12918.398403498888
+ Max. displ. set to :  0.197 (old :  0.199)
+ Frac. acc.: 0.50 attempts: 1999701 succes:  991769
+ ======>> Done  160000  out of  200000 2354 -12894.348115350018
+ Max. displ. set to :  0.198 (old :  0.197)
+ Frac. acc.: 0.50 attempts: 1999774 succes: 1000708
+ ======>> Done  200000  out of  200000 2363 -13010.685076533722
+ Max. displ. set to :  0.197 (old :  0.198)
+ Frac. acc.: 0.50 attempts: 1999655 succes:  996873
+ Number of att. to displ. a part.  :    9997628
+ success:    4984183(= 49.85%)
+ Number o816519023206228
+ Total energy initial configuration:  -7371.86785
+ Total virial initial configuration: -24395.05151
+  Start equilibration 
+ ======>> Done  40000  out of  200000 2335 -12270.563245599227
+ Max. displ. set to :  0.209 (old :  0.200)
+ Frac. acc.: 0.52 attempts: 2000313 succes: 1046010
+ ======>> Done  80000  out of  200000 2349 -12357.446058738507
+ Max. displ. set to :  0.203 (old :  0.209)
+ Frac. acc.: 0.48 attempts: 2000347 succes:  969896
+ ======>> Done  120000  out of  200000 2348 -12458.058661263763
+ Max. displ. set to :  0.202 (old :  0.203)
+ Frac. acc.: 0.50 attempts: 1999893 succes:  997506
+ ======>> Done  160000  out of  200000 2325 -12275.134521542785
+ Max. displ. set to :  0.203 (old :  0.202)
+ Frac. acc.: 0.50 attempts: 2001996 succes: 1004112
+ ======>> Done  200000  out of  200000 2356 -12547.998099265282
+ Max. displ. set to :  0.202 (old :  0.203)
+ Frac. acc.: 0.50 attempts: 2000357 succes:  994815
+ Number of att. to displ. a part.  :   10002906
+ success:    5012339(= 50.11%)
+ Number of att. to exch. part      :   10000737
+ success:      11034(=  0.11%)
+ Total energy end of simulation    : -13294.10200
+       running energy              : -13294.10200
+       difference                  :   0.11642E-09
+ Total virial end of simulation    :   2972.43742
+       running virial              :   2972.43742
+       difference                  :  -0.13688E-09
+  Start production 
+ ======>> Done  160000  out of  800000 2347 -13072.530452005907
+ Max. displ. set to :  0.196 (old :  0.196)
+ Frac. acc.: 0.50 attempts: 7999372 succes: 4000220
+ ======>> Done  320000  out of  800000 2350 -13060.140660877001
+ Max. displ. set to :  0.195 (old :  0.196)
+ Frac. acc.: 0.50 attempts: 7997181 succes: 3988404
+ ======>> Done  480000  out of  800000 2358 -13094.069324707529
+ Max. displ. set to :  0.196 (old :  0.195)
+ Frac. acc.: 0.50 attempts: 8001101 succes: 4021837
+ ======>> Done  640000  out of  800000 2354 -13133.331556227717
+ Max. displ. set to :  0.196 (old :  0.196)
+ Frac. acc.: 0.50 attempts: 8000233 succes:of att. to exch. part      :    9997094
+ success:      21524(=  0.22%)
+ Total energy end of simulation    : -12547.99810
+       running energy              : -12547.99810
+       difference                  :   0.32978E-08
+ Total virial end of simulation    :   2399.71267
+       running virial              :   2399.71267
+       difference                  :  -0.90949E-11
+  Start production 
+ ======>> Done  160000  out of  800000 2352 -12484.751115169476
+ Max. displ. set to :  0.202 (old :  0.202)
+ Frac. acc.: 0.50 attempts: 7998912 succes: 4005787
+ ======>> Done  320000  out of  800000 2333 -12354.343355589677
+ Max. displ. set to :  0.202 (old :  0.202)
+ Frac. acc.: 0.50 attempts: 8000039 succes: 3995402
+ ======>> Done  480000  out of  800000 2319 -12209.520410338266
+ Max. displ. set to :  0.202 (old :  0.202)
+ Frac. acc.: 0.50 attempts: 8001147 succes: 4000419
+ ======>> Done  640000  out of  800000 2329 -12265.962820378938
+ Max. displ. set to :  0.202 (old :  0.202)
+ Frac. acc.: 0.50 attempts: 8000335 succes:f att. to exch. part      :   10002372
+ success:      13823(=  0.14%)
+ Total energy end of simulation    : -13010.68508
+       running energy              : -13010.68508
+       difference                  :  -0.10150E-08
+ Total virial end of simulation    :   2886.41233
+       running virial              :   2886.41233
+       difference                  :  -0.19691E-09
+  Start production 
+ ======>> Done  160000  out of  800000 2356 -12900.436125673976
+ Max. displ. set to :  0.198 (old :  0.197)
+ Frac. acc.: 0.50 attempts: 7997423 succes: 4016427
+ ======>> Done  320000  out of  800000 2343 -12746.22739183548
+ Max. displ. set to :  0.198 (old :  0.198)
+ Frac. acc.: 0.50 attempts: 7995617 succes: 4004354
+ ======>> Done  480000  out of  800000 2339 -12727.195549150803
+ Max. displ. set to :  0.198 (old :  0.198)
+ Frac. acc.: 0.50 attempts: 7996452 succes: 3989184
+ ======>> Done  640000  out of  800000 2337 -12671.532561563337
+ Max. displ. set to :  0.198 (old :  0.198)
+ Frac. acc.: 0.50 attempts: 8000221 succes: 3of att. to exch. part      :   10000320
+ success:      11114(=  0.11%)
+ Total energy end of simulation    : -13001.21438
+       running energy              : -13001.21438
+       difference                  :   0.24920E-09
+ Total virial end of simulation    :   4534.80849
+       running virial              :   4534.80849
+       difference                  :   0.51841E-09
+  Start production 
+ ======>> Done  160000  out of  800000 2348 -12966.087113302661
+ Max. displ. set to :  0.196 (old :  0.197)
+ Frac. acc.: 0.50 attempts: 7997744 succes: 3986471
+ ======>> Done  320000  out of  800000 2363 -13259.697869762051
+ Max. displ. set to :  0.196 (old :  0.196)
+ Frac. acc.: 0.50 attempts: 7999000 succes: 4001126
+ ======>> Done  480000  out of  800000 2363 -13161.534991669818
+ Max. displ. set to :  0.195 (old :  0.196)
+ Frac. acc.: 0.50 attempts: 8002160 succes: 3987667
+ ======>> Done  640000  out of  800000 2342 -12964.566863343176
+ Max. displ. set to :  0.196 (old :  0.195)
+ Frac. acc.: 0.50 attempts: 8001306 succes: 4007108
+ ======>> Done  800000  out of  800000 2337 -12362.833062053254
+ Max. displ. set to :  0.202 (old :  0.202)
+ Frac. acc.: 0.50 attempts: 8001611 succes: 4000886
+ Number of att. to displ. a part.  :   40002044
+ success:   20009602(= 50.02%)
+ Number of att. to exch. part      :   39997956
+ success:      78881(=  0.20%)
+ Total energy end of simulation    : -12362.83306
+       running energy              : -12362.83306
+       difference                  :   0.31559E-08
+ Total virial end of simulation    :   3018.74464
+       running virial              :   3018.74464
+       difference                  :   0.37880E-09
+ Excess chemical potential (res.)  :     -2.08769
+ Chemical potential        (res.)  :     -2.30259
+ Average number of particles       :         2343
+ Bulk density                      :      0.80662
+ 3986502
+ ======>> Done  800000  out of  800000 2336 -12853.958132057407
+ Max. displ. set to :  0.195 (old :  0.196)
+ Frac. acc.: 0.50 attempts: 7996574 succes: 3995024
+ Number of att. to displ. a part.  :   39994461
+ success:   19991987(= 49.99%)
+ Number of att. to exch. part      :   40005539
+ success:      40526(=  0.10%)
+ Total energy end of simulation    : -12853.95813
+       running energy              : -12853.95813
+       difference                  :   0.67485E-09
+ Total virial end of simulation    :   4145.42384
+       running virial              :   4145.42384
+       difference                  :  -0.19554E-09
+ Excess chemical potential (res.)  :     -2.08854
+ Chemical potential        (res.)  :     -2.30259
+ Average number of particles       :         2345
+ Bulk density                      :      0.80731
+998097
+ ======>> Done  800000  out of  800000 2362 -12961.083190515777
+ Max. displ. set to :  0.198 (old :  0.198)
+ Frac. acc.: 0.50 attempts: 7999387 succes: 4003676
+ Number of att. to displ. a part.  :   39989100
+ success:   20011738(= 50.04%)
+ Number of att. to exch. part      :   40010900
+ success:      51085(=  0.13%)
+ Total energy end of simulation    : -12961.08319
+       running energy              : -12961.08319
+       difference                  :  -0.21701E-08
+ Total virial end of simulation    :   3771.21671
+       running virial              :   3771.21671
+       difference                  :   0.66257E-09
+ Excess chemical potential (res.)  :     -2.08939
+ Chemical potential        (res.)  :     -2.30259
+ Average number of particles       :         2347
+ Bulk density                      :      0.80800
+ 4010638
+ ======>> Done  800000  out of  800000 2362 -13168.098430150996
+ Max. displ. set to :  0.195 (old :  0.196)
+ Frac. acc.: 0.50 attempts: 7998735 succes: 3989789
+ Number of att. to displ. a part.  :   39998945
+ success:   19975691(= 49.94%)
+ Number of att. to exch. part      :   40001055
+ success:      40348(=  0.10%)
+ Total energy end of simulation    : -13168.09843
+       running energy              : -13168.09843
+       difference                  :  -0.18244E-08
+ Total virial end of simulation    :   4017.46932
+       running virial              :   4017.46932
+       difference                  :   0.12878E-08
+ Excess chemical potential (res.)  :     -2.08939
+ Chemical potential        (res.)  :     -2.30259
+ Average number of particles       :         2347
+ Bulk density                      :      0.80800
+
+----------------------------------------------------------------
+Jobs exit status code is 
+Job drying/592810.jacin03-m.nersc.gov completed Thu Feb 12 16:49:29 PST 2009
+Submitted by jianwu/jianwu using m618
+Job Limits: neednodes=4:ppn=2,nodes=4:ppn=2,walltime=48:00:00
+Job Resources used: cput=00:00:00,mem=15700kb,vmem=119976kb,walltime=03:51:32
+Nodes used: jaccn013 jaccn014 jaccn016 jaccn017 
+
+Killing any leftover processes...
+
+Job completed.
